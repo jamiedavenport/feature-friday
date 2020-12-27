@@ -1,3 +1,4 @@
+<?php
 switch (true) {
     case ($x == 'hello'):
         foo();

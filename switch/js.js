@@ -1,3 +1,4 @@
+// JS
 switch (new Date().getDay()) {
     case 4:
     case 5:
